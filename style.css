@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <style>
+    body {
+        background-color: darkblue;
+      }
+      
+    h1 {
+        color: purple;
+        margin-left: 2=10px;
+        font-family: "copperplate", fantasy;
+      }
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h1>New page</h1>
+
+        <h2> My dog's name is Jessica</h2>
+       
+    </div>
+    
+</body>
+</html>
